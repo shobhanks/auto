@@ -2,6 +2,7 @@ package autoproject;
 
 public class Mjv {
 
+
 	public static void main22(String[] args) {
 		System.out.println("sdb");
 	}
